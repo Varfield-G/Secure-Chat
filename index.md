@@ -1,2 +1,2 @@
-# Lorem Ipsum
-[Download](Secure-Chat.apk)
+# Secure Chat
+[Download](Secure%20Chat.apk)
